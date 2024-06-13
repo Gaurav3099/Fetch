@@ -1,4 +1,4 @@
-g<h1>FetchHiringApp</h1>
+<h1>FetchHiringApp</h1>
 
 <p>FetchHiringApp is a simple Android application that retrieves data from a given URL, filters out items with blank or null names, sorts them by <code>listId</code> and <code>name</code>, and displays the results in a RecyclerView. The project is built using Java and utilizes the AndroidX library, Volley for networking, and Gson for JSON parsing.</p>
 
