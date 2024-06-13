@@ -4,6 +4,10 @@
 
 <img width="356" alt="fetch1" src="https://github.com/Gaurav3099/Fetch/assets/67475451/78b8c231-2550-4f08-bbec-b2e7bc65b63c">
 <img width="365" alt="fetch2" src="https://github.com/Gaurav3099/Fetch/assets/67475451/500b898b-415c-4524-8076-b1a6123b852e">
+<img width="367" alt="Fetch3" src="https://github.com/Gaurav3099/Fetch/assets/67475451/45aa7a2b-e383-4053-8024-793555eb2795">
+<img width="366" alt="fetch4" src="https://github.com/Gaurav3099/Fetch/assets/67475451/b6a50f73-b3ac-4e54-b51a-51f7ce8bc262">
+
+
 
 
 <h2>Features</h2>
