@@ -1,19 +1,20 @@
 package com.example.fetch;
 
 public class Item {
-    private int listId;
     private int id;
+    private int listId;
     private String name;
 
-    public int getListId() {
-        return listId;
+    public Item(int i, int i1, String s) {
     }
 
-    public int getId() {
-        return id;
-    }
+    // Getters and setters
+    public int getId() { return id; }
+    public void setId(int id) { this.id = id; }
 
-    public String getName() {
-        return name;
-    }
+    public int getListId() { return listId; }
+    public void setListId(int listId) { this.listId = listId; }
+
+    public String getName() { return name; }
+    public void setName(String name) { this.name = name; }
 }

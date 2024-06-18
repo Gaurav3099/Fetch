@@ -17,6 +17,7 @@ android {
     }
 
     buildTypes {
+
         release {
             isMinifyEnabled = false
             proguardFiles(
@@ -44,4 +45,14 @@ dependencies {
     implementation ("androidx.recyclerview:recyclerview:1.2.1")
     implementation ("com.android.volley:volley:1.2.1")
     implementation ("com.google.code.gson:gson:2.8.9")
+    implementation ("androidx.appcompat:appcompat:1.4.0")
+    implementation ("androidx.constraintlayout:constraintlayout:2.1.2")
+    implementation ("androidx.lifecycle:lifecycle-livedata-ktx:2.4.0")
+    implementation ("androidx.lifecycle:lifecycle-viewmodel-ktx:2.4.0")
+    implementation ("com.squareup.retrofit2:retrofit:2.9.0")
+    implementation ("com.squareup.retrofit2:converter-gson:2.9.0")
+    implementation ("com.squareup.okhttp3:logging-interceptor:4.9.1")
+    testImplementation ("junit:junit:4.13.2")
+    testImplementation ("org.mockito:mockito-core:3.12.4")
+    testImplementation ("androidx.arch.core:core-testing:2.1.0")
 }
