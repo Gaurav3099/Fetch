@@ -2,8 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fetch Data Display App</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"
 </head>
 <body>
 
@@ -31,8 +30,8 @@
 <h3>Installation</h3>
 <ol>
     <li><strong>Clone the repository:</strong>
-        <pre><code>git clone https://github.com/yourusername/fetch-data-display-app.git
-cd fetch-data-display-app
+        <pre><code>git clone https://github.com/Gaurav3099/Fetch.git
+<!-- cd fetch-data-display-app -->
         </code></pre>
     </li>
     <li><strong>Open the project in Android Studio:</strong>
