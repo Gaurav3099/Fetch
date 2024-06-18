@@ -11,10 +11,10 @@
 <p>This is a simple Android application that retrieves data from a specified URL, processes the data, and displays it in a list grouped by <code>listId</code>. The items are sorted first by <code>listId</code> and then by <code>name</code>, filtering out any items with blank or null names.</p>
 
 
-![Screenshot 2024-06-18 133537](https://github.com/Gaurav3099/Fetch/assets/67475451/7f53d65b-979f-4580-b828-1a3ff1d9bc11)
-![Screenshot 2024-06-18 133517](https://github.com/Gaurav3099/Fetch/assets/67475451/5a3835d0-7ba9-471d-bd13-7e1304c7a088)
-![Screenshot 2024-06-18 133451](https://github.com/Gaurav3099/Fetch/assets/67475451/e28bda44-cf13-40d5-a8d3-ae078933ca8b)
 ![Screenshot 2024-06-18 133417](https://github.com/Gaurav3099/Fetch/assets/67475451/e0d4f7b6-13d5-404a-8a96-341bdcd6abe6)
+![Screenshot 2024-06-18 133451](https://github.com/Gaurav3099/Fetch/assets/67475451/e28bda44-cf13-40d5-a8d3-ae078933ca8b)
+![Screenshot 2024-06-18 133517](https://github.com/Gaurav3099/Fetch/assets/67475451/5a3835d0-7ba9-471d-bd13-7e1304c7a088)
+![Screenshot 2024-06-18 133537](https://github.com/Gaurav3099/Fetch/assets/67475451/7f53d65b-979f-4580-b828-1a3ff1d9bc11)
 
 
 
