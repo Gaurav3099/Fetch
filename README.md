@@ -111,8 +111,6 @@
 <h2>License</h2>
 <p>This project is licensed under the MIT License. See the <code>LICENSE</code> file for details.</p>
 
-<h2>Contact</h2>
-<p>If you have any questions or suggestions, please feel free to contact the repository owner.</p>
 
 </body>
 </html>
