@@ -9,6 +9,13 @@
 <h1>Fetch Data Display App</h1>
 
 <p>This is a simple Android application that retrieves data from a specified URL, processes the data, and displays it in a list grouped by <code>listId</code>. The items are sorted first by <code>listId</code> and then by <code>name</code>, filtering out any items with blank or null names.</p>
+![image](https://github.com/Gaurav3099/Fetch/assets/67475451/398a60b1-2e52-45c4-badb-b696dc1b8fbd)
+![image](https://github.com/Gaurav3099/Fetch/assets/67475451/bb85ba9a-b092-46b0-8bb3-3c4b1b539244)
+![image](https://github.com/Gaurav3099/Fetch/assets/67475451/7e77e588-76a4-438d-8923-7d600f62bbce)
+![image](https://github.com/Gaurav3099/Fetch/assets/67475451/73ab6b62-c2e0-4a83-b5ef-47795584ccdf)
+
+
+
 
 <h2>Features</h2>
 <ul>
